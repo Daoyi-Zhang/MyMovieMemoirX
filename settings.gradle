@@ -1,0 +1,2 @@
+rootProject.name='MyMovieMemoirX'
+include ':app'

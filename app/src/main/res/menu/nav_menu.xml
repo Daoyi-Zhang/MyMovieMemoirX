@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_page"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/movie_search"
+        android:title="@string/movie_search" />
+    <item
+        android:id="@+id/movie_memoir"
+        android:title="@string/movie_memoir" />
+    <item
+        android:id="@+id/watchlist"
+        android:title="@string/watchlist2" />
+    <item
+        android:id="@+id/reports"
+        android:title="@string/reports" />
+    <item
+        android:id="@+id/maps"
+        android:title="@string/maps" />
+    <item
+        android:id="@+id/logout"
+        android:title="@string/logout" />
+</menu>

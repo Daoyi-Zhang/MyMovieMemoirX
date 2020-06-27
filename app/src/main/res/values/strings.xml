@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">MyMovieMemoir</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="year_array">
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+    </string-array>
+    <string-array name="state_array">
+        <item>NSW</item>
+        <item>VIC</item>
+        <item>QLD</item>
+        <item>WA</item>
+        <item>SA</item>
+        <item>TAS</item>
+    </string-array>
+    <string-array name="sort_array">
+        <item>None</item>
+        <item>Watch Date</item>
+        <item>Your Rating</item>
+        <item>Public Rating</item>
+    </string-array>
+
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+    <string name="searchButton">SEARCH</string>
+    <string name="cast_amp_crew"><![CDATA[Cast & Crew]]></string>
+    <string name="watchlist">watchlist</string>
+    <string name="memoir">memoir</string>
+    <string name="home">Home</string>
+    <string name="movie_search">Movie Search</string>
+    <string name="movie_memoir">Movie Memoir</string>
+    <string name="watchlist2">Watchlist</string>
+    <string name="reports">Reports</string>
+    <string name="maps">Maps</string>
+    <string name="view">view</string>
+    <string name="delete">delete</string>
+    <string name="delete_message">Delete this movie?</string>
+    <string name="confirm">confirm</string>
+    <string name="cancel">cancel</string>
+    <string name="create_a_new_cinema">Not in the list?</string>
+    <string name="choose_a_date">Choose a date</string>
+    <string name="cinema_name">Cinema Name</string>
+    <string name="cinema_postcode">Cinema Postcode</string>
+    <string name="choose_a_cinema">Choose a cinema:</string>
+    <string name="your_scores">Your Scores:</string>
+    <string name="your_comment">Your comment:</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="male">MALE</string>
+    <string name="female">FEMALE</string>
+    <string name="first_name">First Name</string>
+    <string name="surname">Surname</string>
+    <string name="gender">Gender</string>
+    <string name="address">Address</string>
+    <string name="state_npostcode">State\nPostcode</string>
+    <string name="dob">DoB</string>
+    <string name="register">Register</string>
+    <string name="go_back">go back</string>
+    <string name="public_rating">Public Rating</string>
+    <string name="your_rating">Your Rating</string>
+    <string name="watched_at">Watched At:</string>
+    <string name="filter">Filter</string>
+    <string name="apply">Apply</string>
+    <string name="sort_by">Sort By</string>
+    <string name="watch_date">Watch Date</string>
+    <string name="your_memoirs_distribution_of_location">Your Memoirs Distribution of Location</string>
+    <string name="choose_a_time_period">Choose a Time Period</string>
+    <string name="your_memoirs_for_each_month_of_a_year">Your Memoirs for Each Month of a Year</string>
+    <string name="choose_a_year">Choose a Year</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="logout">Logout</string>
+    <string name="are_you_sure_to_logout">Are you sure to logout?</string>
+
+
+</resources>
+
